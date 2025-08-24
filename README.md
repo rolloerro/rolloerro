@@ -1,5 +1,4 @@
 # Владимир Копылов
-
 Программист, специализация: фармацевтика + Python + AI
 
 ---
@@ -20,5 +19,5 @@
 ---
 
 ## Контакты
-- Telegram: @твой_телеграм
-- Email: твой_email@example.com
+- Telegram: @MSL72Rph
+- Email: pharmdoktor1972@icloud.com
