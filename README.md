@@ -1,5 +1,5 @@
 <!-- 💉 Digital WM Core | Profile README -->
-<h1 align="center">👨‍⚕️ Владимир Копылов</h1>
+<h1 align="center">👨‍⚕️ Vladimir Kopylov</h1>
 <h3 align="center">Digital WM Core Founder | Emergency Medicine & AI Systems</h3>
 
 <p align="center">
@@ -57,8 +57,8 @@
 
 ### 🌐 Контакты
 
-- 🧭 Telegram: [@rolloerro](https://t.me/rolloerro)  
-- 💬 Email: [info@digital-wm.com](mailto:info@digital-wm.com) *(в разработке)*  
+- 🧭 Telegram: [@MSL72Rph](https://t.me/MSL72Rph)  
+- 💬 Email: [cappel777@gmail.com](htts:cappel777@gmail.com) *(в разработке)*  
 - 🚀 GitHub Projects: [github.com/rolloerro](https://github.com/rolloerro?tab=repositories)
 
 ---
