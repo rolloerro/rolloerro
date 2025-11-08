@@ -23,23 +23,24 @@ Digital WM Core — ядро, где медицина встречается с 
 
 ---
 
-## 🧩 Архитектура Digital WM Core
-
-```mermaid
+🧩 Архитектура Digital WM Core
 graph TD
-    A[🧠 DIGITAL WM CORE] --> B1[🩺 FDT<br/>Фотодинамическая терапия]
-    A --> B2[🚨 SMP<br/>Скорая и катастрофы]
-    A --> B3[💬 PANIC<br/>Психопомощь и офлайн-боты]
+    CORE["🧠 DIGITAL WM CORE"]
+    CORE --> FDT["🩺 FDT — Фотодинамическая терапия"]
+    CORE --> SMP["🚨 SMP — Скорая помощь и катастрофы"]
+    CORE --> PANIC["💬 PANIC — Психопомощь и офлайн-боты"]
 
-    B1 --> C1[LangChain / OpenAI API]
-    B1 --> C2[fdt-rag-bot / fdt_urology / FDT Tools]
+    FDT --> L1["LangChain / OpenAI API"]
+    FDT --> L2["fdt-rag-bot, fdt_urology, FDT Tools"]
 
-    B2 --> C3[Node.js / TypeScript / Telegraf]
-    B2 --> C4[stepspeedhelp_bot / Drug_poisoning_bot / TELAHELP_bot]
+    SMP --> L3["Node.js / TypeScript / Telegraf"]
+    SMP --> L4["stepspeedhelp_bot, Drug_poisoning_bot, TELAHELP_bot"]
 
-    B3 --> C5[Kotlin / C# / Flutter]
-    B3 --> C6[panichelper_kotlin_bot / Iron_nerves_bot / PANIC Offline]
-🧬 Модульная архитектура, связанная через RAG-ядро и общие AI-алгоритмы.
+    PANIC --> L5["Kotlin / C# / Flutter"]
+    PANIC --> L6["panichelper_kotlin_bot, Iron_nerves_bot, PANIC Offline"]
+
+
+🧬 Модульная архитектура, объединённая через общее RAG-ядро и AI-алгоритмы.
 
 🤖 Экосистема Digital WM Core — 30+ активных ботов
 Категория	Примеры ботов	Языки
@@ -56,6 +57,7 @@ graph TD
 💬 PANIC	Самопомощь при панических атаках и стрессовых расстройствах	Kotlin • C# • Flutter
 
 🧰 Технологический стек
+
 
 
 
