@@ -7,17 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolloerro&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%"/>
 </p>
 
-<!-- 💉 Digital WM Core | Profile README -->
-<h1 align="center">👨‍⚕️ Vladimir Kopylov</h1>
-<h3 align="center">Founder of Digital WM Core | Emergency Medicine & AI Systems</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rolloerro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolloerro&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%"/>
-</p>
-
----
-
 ## 🚑 О себе  
 
 Врач, инженер и разработчик цифровых вычислений в медицине.  
