@@ -1,72 +1,93 @@
-<!-- 💉 Digital WM Core | Profile README -->
-<h1 align="center">👨‍⚕️ Vladimir Kopylov</h1>
-<h3 align="center">Digital WM Core Founder | Emergency Medicine & AI Systems</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rolloerro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolloerro&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%"/>
-</p>
+# 👨‍⚕️ Владимир Копылов  
+**Основатель [Digital WM Core](https://github.com/rolloerro)**  
+🚑 *Экстренная медицина × Искусственный интеллект × Инженерия спасения*  
 
 ---
 
-### 🚑 О себе
+### 🧭 Социальные профили  
+[![GitHub](https://img.shields.io/badge/GitHub-rolloerro-181717?logo=github)](https://github.com/rolloerro)
+[![Telegram](https://img.shields.io/badge/Telegram-@MSL72Rph-0088cc?logo=telegram)](https://t.me/MSL72Rph)
+[![VK](https://img.shields.io/badge/VK-@MSL72Rph-4a76a8?logo=vk)](https://vk.com/id919774804)
 
-Врач, инженер и разработчик цифровых решений в медицине.  
-Создаю экосистемы, где **AI помогает спасать жизни**.  
-
-Миссия — объединить **медицину, алгоритмы и искусственный интеллект**  
-в единую инфраструктуру, доступную каждому врачу и пациенту.  
-
-> 💬 “Код — это тоже инструмент реанимации, если он спасает человека.”
+👥 **69 подписчиков · 216 наблюдателей**
 
 ---
 
-### 🧠 Digital WM Ecosystem
+## ⚙️ Digital WM Core  
+### **Экосистема цифровой медицины и инженерии спасения**
 
-| Направление | Суть | Технологии |
-|--------------|------|-------------|
-| **🩺 FDT** | Фотодинамическая терапия и моделирование клинических сценариев | Python, LangChain, OpenAI API |
-| **🚨 SMP** | Скорая помощь и медицина катастроф — экстренные алгоритмы | Node.js, TypeScript, Telegraf |
-| **💬 PANIC** | Офлайн-боты и помощники при панических атаках | Kotlin, C#, Flutter |
+> 💬 *«Код — это тоже инструмент реанимации, если он спасает человека.»*
 
----
-
-### ⚙️ Проекты
-
-- 🧩 [**stepspeedhelp_bot**](https://github.com/rolloerro/stepspeedhelp_bot) — Бот СМП с клиническими алгоритмами  
-- 💊 [**drug_poisoning_bot**](https://github.com/rolloerro/drug_poisoning_bot) — Помощь при острых отравлениях  
-- 🔬 **FDT Research Tools** — Алгоритмы фотодинамической терапии *(в разработке)*  
-- 🧘‍♂️ **PANIC Offline** — Самопомощь при панических атаках *(MVP stage)*  
+Digital WM Core — ядро, где медицина встречается с искусственным интеллектом.  
+Миссия — сделать алгоритмы экстренной помощи и терапии доступными, надёжными и технологичными.
 
 ---
 
-### 🧩 Технологический стек
+## 🧩 Архитектура Digital WM Core
 
-`Node.js` • `TypeScript` • `Python` • `Telegraf` • `LangChain` • `OpenAI API`  
-`Next.js` • `Kotlin` • `C#` • `Tailwind` • `Telegram API`
+```mermaid
+graph TD
+    A[🧠 DIGITAL WM CORE] --> B1[🩺 FDT<br/>Фотодинамическая терапия]
+    A --> B2[🚨 SMP<br/>Скорая и катастрофы]
+    A --> B3[💬 PANIC<br/>Психопомощь и офлайн-боты]
 
----
+    B1 --> C1[LangChain / OpenAI API]
+    B1 --> C2[fdt-rag-bot / fdt_urology / FDT Tools]
 
-### 📊 Моя динамика
+    B2 --> C3[Node.js / TypeScript / Telegraf]
+    B2 --> C4[stepspeedhelp_bot / Drug_poisoning_bot / TELAHELP_bot]
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rolloerro&theme=radical&hide_border=true" width="90%"/>
-</p>
+    B3 --> C5[Kotlin / C# / Flutter]
+    B3 --> C6[panichelper_kotlin_bot / Iron_nerves_bot / PANIC Offline]
+🧬 Модульная архитектура, связанная через RAG-ядро и общие AI-алгоритмы.
 
----
+🤖 Экосистема Digital WM Core — 30+ активных ботов
+Категория	Примеры ботов	Языки
+🚨 Экстренная помощь (SMP)	stepspeedhelp_bot, Drug_poisoning_bot, TELAHELP_bot, speedhelper_hyper_bot, resucitacion_bot	TypeScript • JS • Python
+💬 Психологическая поддержка (PANIC)	panichelper_kotlin_bot, PANIC Offline, Iron_nerves_bot, NET_PANIC_BOT	Kotlin • C# • Shell
+🩺 ФДТ и исследовательские инструменты	fdt-rag-bot, fdt_urolog_bot2, fdt_ginecolog_bot, fdt_assessment_bot, FDT_CalcBot	Python • JS
+🧪 R&D / Технические прототипы	productlab_test, minecraft-protobuf-fabric-demo, retrieval-augmented-generation	Python • Java
+⚙️ Прочие вспомогательные	боты, паника_бот, price_bot, смолы-тряпки-трубопровод	Python
 
-### 🌐 Контакты
+🧠 Основные направления
+Направление	Суть	Технологии
+🩺 FDT	Фотодинамическая терапия и моделирование проявлений	Python • LangChain • OpenAI API
+🚨 SMP	Алгоритмы действий при ЧС, катастрофах и неотложных состояниях	Node.js • TypeScript • Telegraf
+💬 PANIC	Самопомощь при панических атаках и стрессовых расстройствах	Kotlin • C# • Flutter
 
-- 🧭 Telegram: [@MSL72Rph](https://t.me/MSL72Rph)  
-- 💬 Email: [cappel777@gmail.com](htts:cappel777@gmail.com) *(в разработке)*  
-- 🚀 GitHub Projects: [github.com/rolloerro](https://github.com/rolloerro?tab=repositories)
+🧰 Технологический стек
 
----
 
-### 💡 Цитата Digital WM Core
-> “Инновации в медицине начинаются там, где врач не боится писать код.”
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Digital%20WM%20Core-Active-brightgreen?style=for-the-badge&logo=heartbeat&logoColor=white" alt="Digital WM Core"/>
-</p>
 
+
+
+
+
+
+🧬 Комбинация медицинской точности и инженерной системности.
+От клинических алгоритмов — к цифровым системам реагирования.
+
+📈 GitHub Статистика
+
+
+
+💡 69 подписчиков · 216 наблюдателей
+30+ активных репозиториев, включая RAG-системы, офлайн-ботов и AI-MVP-платформы.
+
+🚧 Сейчас в разработке
+Проект	Статус	Описание
+🧘‍♂️ PANIC Offline v1.0	🚀 Сборка MVP	Алгоритмы самопомощи и офлайн-режим
+🧩 FDT RAG System	🧠 Research	Интеграция FAISS + LangChain + медицинские протоколы
+🚑 SMP Core Algorithms	⚙️ Dev Stage	Алгоритмы экстренных состояний в Telegram-ботах
+☁️ WM Cloud Hub	🔬 Prototype	Централизованное API-ядро Digital WM Core
+
+🌐 Контакты
+📬 Email: cappel777@gmail.com (в разработке)
+💬 Telegram: @MSL72Rph
+🔗 GitHub: github.com/rolloerro
+
+💡 Цитата Digital WM Core
+«Инновации в медицине начинаются там, где врач не боится писать код.»
+
+⭐ Поддержи развитие экосистемы Digital WM Core — поставь ⭐ и стань частью цифровой медицины будущего.
