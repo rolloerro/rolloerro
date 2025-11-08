@@ -35,27 +35,6 @@
 - 🤖 **Retrieval-Augmented Generation Pipeline** — модуль TARS для RAG-интеграции  
 
 ---
-
-## 🧩 Архитектура Digital WM Core
-
-```mermaid
-graph TD
-    CORE["🧠 DIGITAL WM CORE"]
-    CORE --> FDT["🩺 FDT — Фотодинамическая терапия"]
-    CORE --> SMP["🚨 SMP — Скорая помощь и катастрофы"]
-    CORE --> PANIC["💬 PANIC — Психопомощь и офлайн-боты"]
-
-    FDT --> L1["LangChain / OpenAI API"]
-    FDT --> L2["fdt-rag-bot, fdt_urology, FDT Tools"]
-
-    SMP --> L3["Node.js / TypeScript / Telegraf"]
-    SMP --> L4["stepspeedhelp_bot, Drug_poisoning_bot, TELAHELP_bot"]
-
-    PANIC --> L5["Kotlin / C# / Flutter"]
-    PANIC --> L6["panichelper_kotlin_bot, Iron_nerves_bot, PANIC Offline"]
-
----
-
 ### 🚑 О себе
 
 Врач, инженер и разработчик цифровых решений в медицине.  
