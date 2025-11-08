@@ -73,32 +73,37 @@ graph TD
 🚨 SMP	Алгоритмы действий при ЧС, катастрофах и неотложных состояниях	Node.js • TypeScript • Telegraf
 💬 PANIC	Самопомощь при панических атаках и стрессовых расстройствах	Kotlin • C# • Flutter
 
-## 🧰 Технологический стек
+## 🧰 Технологический стек  
 
-💡 **Инженерный фундамент Digital WM Core — симбиоз медицинской точности и вычислительной архитектуры.**
+💡 Инженерный фундамент **Digital WM Core** — симбиоз **медицинской точности** и **вычислительной архитектуры**.  
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00B86B?logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-8A2BE2?logo=neuralink&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![TelegramAPI](https://img.shields.io/badge/Telegram_API-0088cc?logo=telegram&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-00B86B?logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-8A2BE2?logo=neuralink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram_API-0088cc?logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+</p>
 
-> 🧩 От кода — к клинической практике.  
-> ⚙️ От медицинского алгоритма — к цифровому протоколу спасения.
+<p align="center">
+  🧩 От кода — к клинической практике.<br/>
+  ⚙️ От медицинского алгоритма — к цифровому протоколу спасения.
+</p>
+
 
 
 📈 GitHub Статистика
