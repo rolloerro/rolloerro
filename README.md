@@ -23,7 +23,20 @@ Digital WM Core — ядро, где медицина встречается с 
 
 ---
 
-🧩 Архитектура Digital WM Core
+<!-- 💉 Digital WM Core | Profile README -->
+<h1 align="center">👨‍⚕️ Vladimir Kopylov</h1>
+<h3 align="center">Founder of Digital WM Core | Emergency Medicine & AI Systems</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rolloerro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolloerro&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%"/>
+</p>
+
+---
+
+## 🧩 Архитектура Digital WM Core
+
+```mermaid
 graph TD
     CORE["🧠 DIGITAL WM CORE"]
     CORE --> FDT["🩺 FDT — Фотодинамическая терапия"]
@@ -38,6 +51,10 @@ graph TD
 
     PANIC --> L5["Kotlin / C# / Flutter"]
     PANIC --> L6["panichelper_kotlin_bot, Iron_nerves_bot, PANIC Offline"]
+🧬 Модульная архитектура, объединённая через общее RAG-ядро и AI-алгоритмы.
+
+🧩 От кода — к клинической практике.
+⚙️ От медицинского алгоритма — к цифровому протоколу спасения.
 
 
 🧬 Модульная архитектура, объединённая через общее RAG-ядро и AI-алгоритмы.
