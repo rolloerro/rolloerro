@@ -1,28 +1,3 @@
-# 👨‍⚕️ Владимир Копылов  
-**Основатель [Digital WM Core](https://github.com/rolloerro)**  
-🚑 *Экстренная медицина × Искусственный интеллект × Инженерия спасения*  
-
----
-
-### 🧭 Социальные профили  
-[![GitHub](https://img.shields.io/badge/GitHub-rolloerro-181717?logo=github)](https://github.com/rolloerro)
-[![Telegram](https://img.shields.io/badge/Telegram-@MSL72Rph-0088cc?logo=telegram)](https://t.me/MSL72Rph)
-[![VK](https://img.shields.io/badge/VK-@MSL72Rph-4a76a8?logo=vk)](https://vk.com/id919774804)
-
-👥 **69 подписчиков · 216 наблюдателей**
-
----
-
-## ⚙️ Digital WM Core  
-### **Экосистема цифровой медицины и инженерии спасения**
-
-> 💬 *«Код — это тоже инструмент реанимации, если он спасает человека.»*
-
-Digital WM Core — ядро, где медицина встречается с искусственным интеллектом.  
-Миссия — сделать алгоритмы экстренной помощи и терапии доступными, надёжными и технологичными.
-
----
-
 <!-- 💉 Digital WM Core | Profile README -->
 <h1 align="center">👨‍⚕️ Vladimir Kopylov</h1>
 <h3 align="center">Founder of Digital WM Core | Emergency Medicine & AI Systems</h3>
@@ -31,6 +6,35 @@ Digital WM Core — ядро, где медицина встречается с 
   <img src="https://github-readme-stats.vercel.app/api?username=rolloerro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolloerro&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%"/>
 </p>
+
+---
+
+## 🚑 О себе  
+
+Врач, инженер и разработчик цифровых вычислений в медицине.  
+Создаю экосистемы, где ИИ помогает спасать жизнь.  
+
+💬 *«Код — это тоже инструмент реанимации, если он спасает человека.»*  
+
+---
+
+## 🧠 Цифровая экосистема WM  
+
+| Направление | Суть | Технологии |
+|--------------|------|-------------|
+| 🩺 **FDT** | Фотодинамическая терапия и моделирование проявлений | Python, LangChain, OpenAI API |
+| 🚨 **SMP** | Скорая помощь и медицина катастроф — экстренные алгоритмы | Node.js, TypeScript, Telegraf |
+| 💬 **PANIC** | Офлайн-боты и помощники при панических атаках | Kotlin, C#, Flutter |
+
+---
+
+## ⚙️ Проекты  
+
+- 🧩 **stepspeedhelp_bot** — Бот СМП с алгоритмами  
+- 💊 **Drug_poisoning_bot** — Помощь при внешних отравлениях  
+- 🔬 **FDT Tools** — Алгоритмы фотодинамической терапии (в разработке)  
+- 🧘‍♂️ **PANIC Offline** — Самопомощь при панических атаках (MVP)  
+- 🤖 **Retrieval-Augmented Generation Pipeline** — модуль TARS для RAG-интеграции  
 
 ---
 
@@ -51,81 +55,22 @@ graph TD
 
     PANIC --> L5["Kotlin / C# / Flutter"]
     PANIC --> L6["panichelper_kotlin_bot, Iron_nerves_bot, PANIC Offline"]
-🧬 Модульная архитектура, объединённая через общее RAG-ядро и AI-алгоритмы.
-
-🧩 От кода — к клинической практике.
-⚙️ От медицинского алгоритма — к цифровому протоколу спасения.
 
 
 🧬 Модульная архитектура, объединённая через общее RAG-ядро и AI-алгоритмы.
 
-🤖 Экосистема Digital WM Core — 30+ активных ботов
-Категория	Примеры ботов	Языки
-🚨 Экстренная помощь (SMP)	stepspeedhelp_bot, Drug_poisoning_bot, TELAHELP_bot, speedhelper_hyper_bot, resucitacion_bot	TypeScript • JS • Python
-💬 Психологическая поддержка (PANIC)	panichelper_kotlin_bot, PANIC Offline, Iron_nerves_bot, NET_PANIC_BOT	Kotlin • C# • Shell
-🩺 ФДТ и исследовательские инструменты	fdt-rag-bot, fdt_urolog_bot2, fdt_ginecolog_bot, fdt_assessment_bot, FDT_CalcBot	Python • JS
-🧪 R&D / Технические прототипы	productlab_test, minecraft-protobuf-fabric-demo, retrieval-augmented-generation	Python • Java
-⚙️ Прочие вспомогательные	боты, паника_бот, price_bot, смолы-тряпки-трубопровод	Python
+🧰 Технологический стек
 
-🧠 Основные направления
-Направление	Суть	Технологии
-🩺 FDT	Фотодинамическая терапия и моделирование проявлений	Python • LangChain • OpenAI API
-🚨 SMP	Алгоритмы действий при ЧС, катастрофах и неотложных состояниях	Node.js • TypeScript • Telegraf
-💬 PANIC	Самопомощь при панических атаках и стрессовых расстройствах	Kotlin • C# • Flutter
+💡 Инженерный фундамент Digital WM Core — симбиоз медицинской точности и вычислительной архитектуры.
 
-## 🧰 Технологический стек  
-
-💡 Инженерный фундамент **Digital WM Core** — симбиоз **медицинской точности** и **вычислительной архитектуры**.  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-00B86B?logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-8A2BE2?logo=neuralink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Telegram_API-0088cc?logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
-</p>
-
-<p align="center">
-  🧩 От кода — к клинической практике.<br/>
-  ⚙️ От медицинского алгоритма — к цифровому протоколу спасения.
-</p>
-
-
-
-📈 GitHub Статистика
-
-
-
-💡 69 подписчиков · 216 наблюдателей
-30+ активных репозиториев, включая RAG-системы, офлайн-ботов и AI-MVP-платформы.
-
-🚧 Сейчас в разработке
-Проект	Статус	Описание
-🧘‍♂️ PANIC Offline v1.0	🚀 Сборка MVP	Алгоритмы самопомощи и офлайн-режим
-🧩 FDT RAG System	🧠 Research	Интеграция FAISS + LangChain + медицинские протоколы
-🚑 SMP Core Algorithms	⚙️ Dev Stage	Алгоритмы экстренных состояний в Telegram-ботах
-☁️ WM Cloud Hub	🔬 Prototype	Централизованное API-ядро Digital WM Core
-
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-00B86B?logo=chainlink&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-8A2BE2?logo=neuralink&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Telegram_API-0088cc?logo=telegram&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/> </p> <p align="center"> 🧩 От кода — к клинической практике.<br/> ⚙️ От медицинского алгоритма — к цифровому протоколу спасения. </p>
 🌐 Контакты
-📬 Email: cappel777@gmail.com (в разработке)
-💬 Telegram: @MSL72Rph
-🔗 GitHub: github.com/rolloerro
 
-💡 Цитата Digital WM Core
-«Инновации в медицине начинаются там, где врач не боится писать код.»
+📬 Telegram: @MSL72Rph
 
-⭐ Поддержи развитие экосистемы Digital WM Core — поставь ⭐ и стань частью цифровой медицины будущего.
+🌍 GitHub: github.com/rolloerro
+
+💬 VK: vk.com/id919774804
+
+💡 «Инновации в медицине начинаются там, где врач не боится писать код.»
+— Digital WM Core
