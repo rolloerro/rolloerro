@@ -7,6 +7,64 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolloerro&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%"/>
 </p>
 
+<!-- 💉 Digital WM Core | Profile README -->
+<h1 align="center">👨‍⚕️ Vladimir Kopylov</h1>
+<h3 align="center">Founder of Digital WM Core | Emergency Medicine & AI Systems</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rolloerro&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolloerro&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="48%"/>
+</p>
+
+---
+
+## 🚑 О себе  
+
+Врач, инженер и разработчик цифровых вычислений в медицине.  
+Создаю экосистемы, где ИИ помогает спасать жизнь.  
+
+💬 *«Код — это тоже инструмент реанимации, если он спасает человека.»*  
+
+---
+
+## 🧠 Цифровая экосистема WM  
+
+| Направление | Суть | Технологии |
+|--------------|------|-------------|
+| 🩺 **FDT** | Фотодинамическая терапия и моделирование проявлений | Python, LangChain, OpenAI API |
+| 🚨 **SMP** | Скорая помощь и медицина катастроф — экстренные алгоритмы | Node.js, TypeScript, Telegraf |
+| 💬 **PANIC** | Офлайн-боты и помощники при панических атаках | Kotlin, C#, Flutter |
+
+---
+
+## ⚙️ Проекты  
+
+- 🧩 **stepspeedhelp_bot** — Бот СМП с алгоритмами  
+- 💊 **Drug_poisoning_bot** — Помощь при внешних отравлениях  
+- 🔬 **FDT Tools** — Алгоритмы фотодинамической терапии (в разработке)  
+- 🧘‍♂️ **PANIC Offline** — Самопомощь при панических атаках (MVP)  
+- 🤖 **Retrieval-Augmented Generation Pipeline** — модуль TARS для RAG-интеграции  
+
+---
+
+## 🧩 Архитектура Digital WM Core
+
+```mermaid
+graph TD
+    CORE["🧠 DIGITAL WM CORE"]
+    CORE --> FDT["🩺 FDT — Фотодинамическая терапия"]
+    CORE --> SMP["🚨 SMP — Скорая помощь и катастрофы"]
+    CORE --> PANIC["💬 PANIC — Психопомощь и офлайн-боты"]
+
+    FDT --> L1["LangChain / OpenAI API"]
+    FDT --> L2["fdt-rag-bot, fdt_urology, FDT Tools"]
+
+    SMP --> L3["Node.js / TypeScript / Telegraf"]
+    SMP --> L4["stepspeedhelp_bot, Drug_poisoning_bot, TELAHELP_bot"]
+
+    PANIC --> L5["Kotlin / C# / Flutter"]
+    PANIC --> L6["panichelper_kotlin_bot, Iron_nerves_bot, PANIC Offline"]
+
 ---
 
 ### 🚑 О себе
