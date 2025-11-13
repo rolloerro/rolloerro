@@ -1,10 +1,3 @@
-
-<!-- ===== Animated typing header ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=32&pause=2000&color=0F172A&center=true&vCenter=true&width=900&height=90&lines=%F0%9F%91%A8%EF%B8%8F+Vladimir+Kopylov+%7C+Digital+World+Medicine;%F0%9F%93%91+ClinicRecSkin+Bot+%E2%9A%A1+Clinical+Guidelines;%F0%9F%A4%A0+AI+%7C+Emergency+Medicine+%7C+Open+Source" alt="Vladimir Kopylov — Digital World Medicine" />
-</p>
-<!-- ================================ -->
-
 <!-- 💉 Digital WM Core | Profile README -->
 <h1 align="center">👨‍⚕️ Vladimir Kopylov</h1>
 <h3 align="center">Digital WM Core Founder | Emergency Medicine & AI Systems</h3>
