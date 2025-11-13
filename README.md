@@ -5,7 +5,6 @@
 
 <h3 align="center">Основатель Digital WM Core | Экстренная медицина и системы искусственного интеллекта</h3>
 <p align="center">💬 <em>«Код — это тоже инструмент реанимации, если он спасает человека.»</em></p>
----
 
 ### 👨‍⚕️ Владимир Копылов
 **Founder Digital WM Core | Emergency Medicine & AI Systems**
