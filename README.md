@@ -1,35 +1,3 @@
-<!-- Animated header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=32&pause=1500&color=0b1226&center=true&width=900&height=90&lines=%F0%9F%91%A8%20Vladimir%20Kopylov%20%7C%20Digital%20World%20Medicine;%F0%9F%93%91%20ClinicRecSkin%20Bot%20%E2%9A%A1%20Clinical%20Guidelines;%F0%9F%A4%A0%20AI%20%7C%20Emergency%20Medicine" alt="Vladimir Kopylov — Digital World Medicine" />
-</p>
-
-<!-- Main stats: stable + fallback -->
-<p align="center">
-  <!-- GitHub dynamic stats (usually works) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rolloerro&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <!-- If streak fails, this shield always shows follower count -->
-  <img src="https://img.shields.io/github/followers/rolloerro?style=social" alt="Followers" />
-</p>
-
-<p align="center">
-  <!-- Top langs (compact). Если пусто — покажет плейсхолдер -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolloerro&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Надёжные info-shields (fallbacks) -->
-  <a href="https://github.com/rolloerro/CG-for-basal-cell-carcinoma_bot">
-    <img src="https://img.shields.io/github/repo-size/rolloerro/CG-for-basal-cell-carcinoma_bot?style=flat-square" alt="Repo size" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/rolloerro">
-    <img src="https://img.shields.io/badge/GitHub-rolloerro-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/github/last-commit/rolloerro/CG-for-basal-cell-carcinoma_bot?style=flat-square" alt="Last commit" />
-</p>
-
 <!-- 💉 Digital WM Core | Profile README -->
 <h1 align="center">👨‍⚕️ Vladimir Kopylov</h1>
 <h3 align="center">Digital WM Core Founder | Emergency Medicine & AI Systems</h3>
