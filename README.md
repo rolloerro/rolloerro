@@ -1,3 +1,4 @@
+
 <!-- ===== Animated typing header ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=32&pause=2000&color=0F172A&center=true&vCenter=true&width=900&height=90&lines=%F0%9F%91%A8%EF%B8%8F+Vladimir+Kopylov+%7C+Digital+World+Medicine;%F0%9F%93%91+ClinicRecSkin+Bot+%E2%9A%A1+Clinical+Guidelines;%F0%9F%A4%A0+AI+%7C+Emergency+Medicine+%7C+Open+Source" alt="Vladimir Kopylov — Digital World Medicine" />
@@ -41,6 +42,22 @@
 - 🤖 **Retrieval-Augmented Generation Pipeline** — модуль TARS для RAG-интеграции  
 
 ---
+<!-- ===== GitHub stats row ===== -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rolloerro&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rolloerro&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolloerro&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rolloerro&theme=onedark&row=1&column=4" alt="Trophies" />
+</p>
+<!-- ================================ -->
+
 ### 🚑 О себе
 
 Врач, инженер и разработчик цифровых решений в медицине.  
@@ -85,6 +102,21 @@
 </p>
 
 ---
+<!-- ===== Social badges ===== -->
+<p align="center">
+  <a href="https://github.com/rolloerro">
+    <img src="https://img.shields.io/github/followers/rolloerro?label=Followers&style=social" alt="Followers" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rolloerro?tab=repositories">
+    <img src="https://img.shields.io/github/repo-size/rolloerro/CG-for-basal-cell-carcinoma_bot?style=flat-square" alt="Repo size" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sponsors/rolloerro">
+    <img src="https://img.shields.io/badge/Support-Sponsor-blue?style=flat-square" alt="Sponsor" />
+  </a>
+</p>
+<!-- ================================ -->
 
 ### 🌐 Контакты
 
