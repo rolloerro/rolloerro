@@ -1,8 +1,10 @@
-<!-- 🔥 Animated header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=F75C7E&center=true&width=850&lines=👨‍⚕️+Vladimir+Kopylov+|+Digital+World+Medicine;🚑+AI+Emergency+Systems+Developer;⚙️+ClinicRecSkin+Bot+—+Clinical+Guidelines" alt="Typing SVG" />
+  <!-- typing SVG (primary) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=26&pause=1300&color=0b1226&center=true&width=900&height=70&lines=👨‍⚕️+Vladimir+Kopylov+%7C+Digital+WM+Core;🚑+ClinicRecSkin+Bot+—+Clinical+Guidelines" alt="typing" />
 </p>
 
+<h3 align="center">Основатель Digital WM Core | Экстренная медицина и системы искусственного интеллекта</h3>
+<p align="center">💬 <em>«Код — это тоже инструмент реанимации, если он спасает человека.»</em></p>
 ---
 
 ### 👨‍⚕️ Владимир Копылов
