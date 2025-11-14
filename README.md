@@ -1,61 +1,68 @@
-### 👨‍⚕️ Владимир Копылов
-**Founder Digital WM Core | Emergency Medicine & AI Systems**
+# 👨‍⚕️ Владимир Копылов – Digital WM Core
 
-> 💬 *«Код — это тоже инструмент реанимации, если он спасает человека.»*
+Основатель **Digital WM Core** | Экстренная медицина и системы искусственного интеллекта
+
+💬 «Код — это тоже инструмент реанимации, если он спасает человека».
 
 ---
 
-### 🧠 Digital WM Ecosystem
+## 🌐 Цифровая экосистема WM
 
 | Направление | Суть | Технологии |
-|--------------|------|-------------|
-| 🩺 **FDT** | Фотодинамическая терапия и моделирование клинических сценариев | Python, LangChain, OpenAI API |
-| 🚨 **SMP** | Скорая помощь и медицина катастроф — экстренные алгоритмы | Node.js, TypeScript, Telegraf |
+|-------------|------|------------|
+| 🩺 **ФДТ / PDT** | Фотодинамическая терапия и моделирование проявлений | Python, LangChain, OpenAI API |
+| 🚨 **СМП / EMS** | Экстренные алгоритмы и медицинские протоколы | Node.js, TypeScript, Telegraf |
 | 💬 **PANIC** | Офлайн-боты и помощники при панических атаках | Kotlin, C#, Flutter |
 
 ---
 
-### ⚙️ Проекты
+## 🧩 Проекты и боты
 
-- 🧩 [**stepspeedhelp_bot**](https://github.com/rolloerro/stepspeedhelp_bot) — Алгоритмы СМП  
-- 💊 [**drug_poisoning_bot**](https://github.com/rolloerro/drug_poisoning_bot) — Отравления и токсикология  
-- 🔬 **FDT Research Tools** — Моделирование терапии *(in progress)*  
-- 🧘‍♂️ **PANIC Offline** — Самопомощь при панических атаках *(MVP)*  
+### 🩺 ФДТ / PDT Tools & Bots
 
----
-
-### 🧩 Технологический стек
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,js,kotlin,cs,flutter,docker,postgres,redis,tensorflow,pytorch,openai,github,tailwind,react&theme=dark" />
-</p>
-
-<p align="center">🧩 От кода — к клинической практике.<br/>⚙️ От медицинского алгоритма — к цифровому протоколу спасения.</p>
-
----
-
-### 📊 GitHub статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rolloerro&show_icons=true&count_private=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rolloerro&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolloerro&layout=compact&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=rolloerro&theme=onedark&row=1&column=4" width="48%"/>
-</p>
+| Проект / Бот | Описание | Ссылка |
+|--------------|----------|--------|
+| **OpenPDT Toolkit** | Планирование, моделирование и оптимизация ФДТ | [GitHub](https://github.com/rolloerro/openpdt-toolkit) |
+| **PDT-LightSim** | Симулятор распространения света | [GitHub](https://github.com/rolloerro/pdt-lightsim) |
+| **PDT-Kinetics-Library** | Моделирование кинетики фотосенсибилизаторов | [GitHub](https://github.com/rolloerro/pdt-kinetics) |
+| **PDT Clinical Assistant Bot** | Англоязычный бот по ФДТ | [GitHub](https://github.com/rolloerro/PDT-Clinical-Assistant-Bot) |
+| **fdtcalc01_bot** | Расчёт мощности лазера, дозы, времени экспозиции | [Telegram](https://t.me/fdtcalc01_bot) |
+| **radapharma_bot** | Информационно-обучающий бот по препарату Радахлорин | [Telegram](https://t.me/radapharma_bot) |
+| **CG-carcinoma_bot** | Алгоритмы для врачей при онкологических случаях | [Telegram](https://t.me/CG_carcinoma_bot) |
+| **fdtliason_bot** | Вспомогательный бот для клинической поддержки | [Telegram](https://t.me/fdtliason_bot) |
+| **fdt_urolog_bot2** | Помощник по урологическим протоколам ФДТ | [Telegram](https://t.me/fdt_urolog_bot2) |
+| **fdtauro_bot** | Поддержка ФДТ при урологических и гинекологических задачах | [Telegram](https://t.me/fdtauro_bot) |
+| **fdt_ginecolog_bot** | Клинические сценарии для гинекологии | [Telegram](https://t.me/fdt_ginecolog_bot) |
+| **fdt_assessment_bot** | Оценка эффективности ФДТ | [Telegram](https://t.me/fdt_assessment_bot) |
+| **FDT_CalcBot** | Расчёт дозы, времени и мощности для ФДТ | [Telegram](https://t.me/FDT_CalcBot) |
 
 ---
 
-### 🌐 Контакты
+### 🚨 СМП / EMS Bots
 
-- 🧭 Telegram: [@MSL72Rph](https://t.me/MSL72Rph)  
-- 💬 Email: [cappel777@gmail.com](mailto:cappel777@gmail.com)  
-- 🚀 GitHub: [github.com/rolloerro](https://github.com/rolloerro)
+| Проект / Бот | Описание | Ссылка |
+|--------------|----------|--------|
+| **stepspeedhelp_bot** | Алгоритмы экстренной помощи | [GitHub](https://github.com/rolloerro/stepspeedhelp_bot) |
+| **Drug_poisoning_bot** | Алгоритмы при отравлениях | [GitHub](https://github.com/rolloerro/Drug_poisoning_bot) |
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Digital%20WM%20Core-Active-brightgreen?style=for-the-badge&logo=heartbeat&logoColor=white" />
-</p>
+### 💬 PANIC / Offline Helpers
+
+| Проект / Бот | Описание | Ссылка |
+|--------------|----------|--------|
+| **PANIC Offline** | Самопомощь при панических атаках (MVP) | [GitHub](https://github.com/rolloerro/PANIC-Offline) |
+
+---
+
+## ⚙️ Технологический стек
+
+Python | Node.js | TypeScript | Kotlin | C# | Flutter | LangChain | OpenAI API  
+
+---
+
+## 🧬 ФДТ Расчёты (пример)
+
+Примеры формул и областей применения:
+```text
+Dose (J/cm²) = Power (W) × Time (s) / Spot Area (cm²)
