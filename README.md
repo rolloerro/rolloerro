@@ -57,7 +57,9 @@
 
 ## ⚙️ Технологический стек
 
-Python | Node.js | TypeScript | Kotlin | C# | Flutter | LangChain | OpenAI API  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,js,kotlin,cs,flutter,docker,postgres,redis,tensorflow,pytorch,openai,github,tailwind,react&theme=dark" />
+</p> 
 
 ---
 
