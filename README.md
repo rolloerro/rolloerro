@@ -54,19 +54,17 @@
 | **PANIC Offline** | Самопомощь при панических атаках (MVP) | [GitHub](https://github.com/rolloerro/PANIC-Offline) |
 
 ---
-## 🧬 ФДТ Расчёты (пример)
 
-Примеры формул и областей применения:
-```text
-Dose (J/cm²) = Power (W) × Time (s) / Spot Area (cm²)
---- 
 ## ⚙️ Технологический стек
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,js,kotlin,cs,flutter,docker,postgres,redis,tensorflow,pytorch,openai,github,tailwind,react&theme=dark" />
-</p> 
+</p>
+
+<p align="center">🧩 От кода — к клинической практике.<br/>⚙️ От медицинского алгоритма — к цифровому протоколу спасения.</p>
 
 ---
+
 ### 📊 GitHub статистика
 
 <p align="center">
@@ -78,7 +76,14 @@ Dose (J/cm²) = Power (W) × Time (s) / Spot Area (cm²)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolloerro&layout=compact&theme=radical&hide_border=true" width="48%"/>
   <img src="https://github-profile-trophy.vercel.app/?username=rolloerro&theme=onedark&row=1&column=4" width="48%"/>
 </p>
+
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/Digital%20WM%20Core-Active-brightgreen?style=for-the-badge&logo=heartbeat&logoColor=white" />
-</p>
+
+---
+
+## 🧬 ФДТ Расчёты (пример)
+
+Примеры формул и областей применения:
+```text
+Dose (J/cm²) = Power (W) × Time (s) / Spot Area (cm²)
+
