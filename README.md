@@ -73,6 +73,7 @@ APIKey Auth Service	Генерация, валидация и безопасно
 File Upload Service	Загрузка, валидация и обработка файлов.
 Task Worker Template (Rust)	Асинхронный worker для тяжёлых задач и очередей.
 Metrics & Healthcheck Service	Метрики / здоровье / readiness для Kubernetes.
+
 🛰 Архитектура платформы
           API Gateway
                ↓
@@ -88,6 +89,7 @@ Metrics & Healthcheck Service	Метрики / здоровье / readiness дл
         Rust Task Worker
                ↓
         Metrics + Health
+
 
 🏷 Бейджи Cloud Native
 <p align="left"> <img src="https://img.shields.io/badge/Kubernetes-Ready-blue?style=for-the-badge&logo=kubernetes" /> <img src="https://img.shields.io/badge/Prometheus-Metrics-orange?style=for-the-badge&logo=prometheus" /> <img src="https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/Rust-Workers-orange?style=for-the-badge&logo=rust" /> <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-black?style=for-the-badge&logo=githubactions" /> </p>
