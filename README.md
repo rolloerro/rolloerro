@@ -95,7 +95,7 @@ Metrics & Healthcheck Service	Метрики / здоровье / readiness дл
 <p align="left"> <img src="https://img.shields.io/badge/Kubernetes-Ready-blue?style=for-the-badge&logo=kubernetes" /> <img src="https://img.shields.io/badge/Prometheus-Metrics-orange?style=for-the-badge&logo=prometheus" /> <img src="https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/Rust-Workers-orange?style=for-the-badge&logo=rust" /> <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-black?style=for-the-badge&logo=githubactions" /> </p>
 
 
-🎤 Я разрабатываю собственную Cloud Native платформу из 7 микросервисов: от рецепторов вебхуков и API-ключей до Rust-воркеров, загрузчиков файлов и сервисов метрик. Это ядро цифровой инфраструктуры для моих медицинских AI-проектов и ботов. Архитектура совместима с Kubernetes, Docker, Prometheus и CI/CD.
+Я разрабатываю собственную Cloud Native платформу из 7 микросервисов: от рецепторов вебхуков и API-ключей до Rust-воркеров, загрузчиков файлов и сервисов метрик. Это ядро цифровой инфраструктуры для моих медицинских AI-проектов и ботов. Архитектура совместима с Kubernetes, Docker, Prometheus и CI/CD.
 
 ---
 
