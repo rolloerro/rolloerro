@@ -54,6 +54,48 @@
 | **PANIC Offline** | Самопомощь при панических атаках (MVP) | [GitHub](https://github.com/rolloerro/PANIC-Offline) |
 
 ---
+☁️ Digital-WM Cloud Microservices Platform
+Production-ready Cloud Native архитектура из 7 сервисов
+
+Я создаю собственную облачную инфраструктуру на основе микросервисов — для медицинских ботов, AI-модулей, обработчиков вебхуков, асинхронных задач и мониторинга.
+Стек полностью совместим с Kubernetes, Docker, Prometheus и CI/CD.
+
+🔧 Технологии
+
+Kotlin · Rust · Ruby · Node.js · Docker · Kubernetes · Prometheus · Grafana · OpenAPI
+
+🧩 Сервисы экосистемы
+Сервис	Описание
+Universal REST API Template	База для создания быстрых продакшен-микросервисов.
+JSON Echo Service	Тестовый API для дебага прокси, сетей, логов и клиентов.
+Webhook Receiver	Приём и маршрутизация вебхуков из Telegram, CRM, AI-систем.
+APIKey Auth Service	Генерация, валидация и безопасность API-ключей.
+File Upload Service	Загрузка, валидация и обработка файлов.
+Task Worker Template (Rust)	Асинхронный worker для тяжёлых задач и очередей.
+Metrics & Healthcheck Service	Метрики / здоровье / readiness для Kubernetes.
+🛰 Архитектура платформы
+          API Gateway
+               ↓
+   ┌──────────────────────────┐
+   │ Universal REST Template  │
+   └──────────────────────────┘
+               ↓
+ ┌────────┬─────────┬─────────┬──────────┐
+ │ JSON   │ Webhook │ APIKey  │ File     │
+ │ Echo   │ Receiver│ Auth    │ Upload   │
+ └────────┴─────────┴─────────┴──────────┘
+               ↓
+        Rust Task Worker
+               ↓
+        Metrics + Health
+
+🏷 Бейджи Cloud Native
+<p align="left"> <img src="https://img.shields.io/badge/Kubernetes-Ready-blue?style=for-the-badge&logo=kubernetes" /> <img src="https://img.shields.io/badge/Prometheus-Metrics-orange?style=for-the-badge&logo=prometheus" /> <img src="https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/Rust-Workers-orange?style=for-the-badge&logo=rust" /> <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-black?style=for-the-badge&logo=githubactions" /> </p>
+🎤 Лифт-спич (коротко — для рекрутеров и CTO)
+
+Я разрабатываю собственную Cloud Native платформу из 7 микросервисов: от рецепторов вебхуков и API-ключей до Rust-воркеров, загрузчиков файлов и сервисов метрик. Это ядро цифровой инфраструктуры для моих медицинских AI-проектов и ботов. Архитектура совместима с Kubernetes, Docker, Prometheus и CI/CD.
+
+---
 
 ## ⚙️ Технологический стек
 
