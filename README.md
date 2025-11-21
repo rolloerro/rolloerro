@@ -54,91 +54,46 @@
 | **PANIC Offline** | Самопомощь при панических атаках (MVP) | [GitHub](https://github.com/rolloerro/PANIC-Offline) |
 
 ---
-🚀 Digital-WM Cloud Microservices Platform
-██████╗ ██╗ ██████╗ ██╗████████╗ █████╗ ██╗     
-██╔══██╗██║██╔════╝ ██║╚══██╔══╝██╔══██╗██║     
-██████╔╝██║██║  ███╗██║   ██║   ███████║██║     
-██╔═══╝ ██║██║   ██║██║   ██║   ██╔══██║██║     
-██║     ██║╚██████╔╝██║   ██║   ██║  ██║███████╗
-╚═╝     ╚═╝ ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
-     DIGITAL–WM CLOUD MICROSERVICES STACK
+☁️ Digital-WM Cloud Microservices Platform
+Production-ready Cloud Native архитектура из 7 сервисов
 
-🛰 ⭐ Бейджи единой экосистемы
-<p align="center"> <img src="https://img.shields.io/badge/Microservices-7-green?style=for-the-badge&logo=icloud" /> <img src="https://img.shields.io/badge/Cloud%20Native-Kubernetes-blue?style=for-the-badge&logo=kubernetes" /> <img src="https://img.shields.io/badge/Observability-Prometheus-orange?style=for-the-badge&logo=prometheus" /> <img src="https://img.shields.io/badge/Workers-Rust%2FTokio-orange?style=for-the-badge&logo=rust" /> <img src="https://img.shields.io/badge/REST-API-yellow?style=for-the-badge&logo=swagger" /> <img src="https://img.shields.io/badge/Webhooks-Ingestion-purple?style=for-the-badge&logo=webhooks" /> <img src="https://img.shields.io/badge/Security-API--Keys-red?style=for-the-badge&logo=security" /> </p>
-🧩 Архитектурная диаграмма всей платформы
-          ┌──────────────────────────────────────────┐
-          │         Universal REST API Template       │
-          │  (базовый REST-каркас: Kotlin/Rust/Ruby) │
-          └──────────────────────────────────────────┘
-                           │
-                           ▼
-     ┌────────────────────────────────────────────────────────────┐
-     │                     API Gateway / Nginx                    │
-     └────────────────────────────────────────────────────────────┘
-                           │
-     ┌───────────────┬───────────────┬─────────────────┬──────────┐
-     ▼               ▼               ▼                 ▼          ▼
-┌───────────┐  ┌──────────────┐  ┌───────────────┐  ┌──────────┐ ┌──────────┐
-│ JSON Echo │  │ Webhook       │  │ APIKey Auth    │  │ File     │ │ Metrics  │
-│ Service   │  │ Receiver      │  │ Service        │  │ Upload   │ │ Health   │
-└───────────┘  └──────────────┘  └───────────────┘  └──────────┘ └──────────┘
-                                   │
-                                   ▼
-                       ┌─────────────────────┐
-                       │ Task Worker (Rust)  │
-                       │ async jobs / queue  │
-                       └─────────────────────┘
+Я создаю собственную облачную инфраструктуру на основе микросервисов — для медицинских ботов, AI-модулей, обработчиков вебхуков, асинхронных задач и мониторинга.
+Стек полностью совместим с Kubernetes, Docker, Prometheus и CI/CD.
 
-                     <All services monitored by Prometheus / Grafana>
+🔧 Технологии
 
-🔥 Сверхкратко о каждом сервисе
-Сервис	Роль
-JSON Echo Service	Тестовый API для отладки сетей и прокси.
-Webhook Receiver	Приём входящих вебхуков из внешних систем.
-APIKey Auth Service	Проверка API-ключей, безопасность.
-File Upload Service	Загрузка, валидация и хранение файлов.
-Task Worker Template	Асинхронный воркер на Rust для тяжёлых задач.
-Metrics Healthcheck Service	Метрики, liveness, readiness.
-Universal REST API Template	База для создания новых сервисов.
-🧭 Общая структура Digital-WM Cloud Stack
-digital-wm-cloud/
- ├── universal-rest-api-template/
- ├── json-echo-service/
- ├── webhook-receiver/
- ├── apikey-auth-service/
- ├── file-upload-service/
- ├── task-worker-template/
- └── metrics-healthcheck-service/
+Kotlin · Rust · Ruby · Node.js · Docker · Kubernetes · Prometheus · Grafana · OpenAPI
 
-Я разработал собственный Cloud Native-стек из 7 микросервисов, включая систему вебхуков, API-ключей, REST-каркас, сервис загрузки файлов, метрики и worker-движок на Rust.
-Архитектура полностью совместима с Kubernetes, Prometheus и CI/CD.
-Каждый сервис оформлен как самостоятельный production-ready репозиторий.
+🧩 Сервисы экосистемы
+Сервис	Описание
+Universal REST API Template	База для создания быстрых продакшен-микросервисов.
+JSON Echo Service	Тестовый API для дебага прокси, сетей, логов и клиентов.
+Webhook Receiver	Приём и маршрутизация вебхуков из Telegram, CRM, AI-систем.
+APIKey Auth Service	Генерация, валидация и безопасность API-ключей.
+File Upload Service	Загрузка, валидация и обработка файлов.
+Task Worker Template (Rust)	Асинхронный worker для тяжёлых задач и очередей.
+Metrics & Healthcheck Service	Метрики / здоровье / readiness для Kubernetes.
+🛰 Архитектура платформы
+          API Gateway
+               ↓
+   ┌──────────────────────────┐
+   │ Universal REST Template  │
+   └──────────────────────────┘
+               ↓
+ ┌────────┬─────────┬─────────┬──────────┐
+ │ JSON   │ Webhook │ APIKey  │ File     │
+ │ Echo   │ Receiver│ Auth    │ Upload   │
+ └────────┴─────────┴─────────┴──────────┘
+               ↓
+        Rust Task Worker
+               ↓
+        Metrics + Health
 
-🚀 Digital-WM Cloud Microservices Platform
+🏷 Бейджи Cloud Native
+<p align="left"> <img src="https://img.shields.io/badge/Kubernetes-Ready-blue?style=for-the-badge&logo=kubernetes" /> <img src="https://img.shields.io/badge/Prometheus-Metrics-orange?style=for-the-badge&logo=prometheus" /> <img src="https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/Rust-Workers-orange?style=for-the-badge&logo=rust" /> <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-black?style=for-the-badge&logo=githubactions" /> </p>
+🎤 
 
-Набор из 7 production-ready микросервисов, которые формируют мою облачную архитектуру:
-
-API-каркас
-
-Webhook-ингестор
-
-Авторизация по API-ключам
-
-Загрузчик файлов
-
-Асинхронный Rust-воркер
-
-Метрики / здоровье
-
-Базовые REST-шаблоны для любых новых сервисов
-
-Архитектура полностью Cloud Native, совместима с:
-
-✔ Kubernetes
-✔ Prometheus / Grafana
-✔ Docker
-✔ CI/CD
-✔ Event-Driven workflow
+Я разрабатываю собственную Cloud Native платформу из 7 микросервисов: от рецепторов вебхуков и API-ключей до Rust-воркеров, загрузчиков файлов и сервисов метрик. Это ядро цифровой инфраструктуры для моих медицинских AI-проектов и ботов. Архитектура совместима с Kubernetes, Docker, Prometheus и CI/CD.
 ---
 
 ## ⚙️ Технологический стек
