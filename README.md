@@ -54,8 +54,6 @@
 | **PANIC Offline** | Самопомощь при панических атаках (MVP) | [GitHub](https://github.com/rolloerro/PANIC-Offline) |
 
 ---
-
-
 ☁️ Digital-WM Cloud Microservices Platform
 Production-ready Cloud Native архитектура из 7 сервисов
 
