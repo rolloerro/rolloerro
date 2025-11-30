@@ -8,6 +8,9 @@
 # 👨‍⚕️ Vladimir Kopylov
 **Medical Full‑Stack Developer · AI/ML Engineer · Emergency Medicine Engineering**
 
+![Uploading image.png…]()
+
+
 
 Founder of **Digital WM Core** — clinical AI tools, emergency medicine algorithms, and cloud-native microservices for medical applications.
 
