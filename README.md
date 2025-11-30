@@ -1,4 +1,3 @@
-
 [![GitHub followers](https://img.shields.io/github/followers/rolloerro?label=followers&style=flat-square)](https://github.com/rolloerro)
 [![Top Language](https://img.shields.io/github/languages/top/rolloerro?style=flat-square)]
 [![Repo count](https://img.shields.io/github/repos/rolloerro?style=flat-square)]
@@ -76,9 +75,6 @@ Bring clinical algorithms and emergency protocols into reliable, auditable digit
 *If you landed here and want to collaborate — open an issue or ping me on Telegram.*
 ```
 
-# ===== README_RU (to paste into README_RU.md) =====
-
-```markdown
 [![Подписчики](https://img.shields.io/github/followers/rolloerro?label=подписчики&style=flat-square)](https://github.com/rolloerro)
 [![Язык](https://img.shields.io/github/languages/top/rolloerro?style=flat-square)]
 [![Репозиториев](https://img.shields.io/github/repos/rolloerro?style=flat-square)]
