@@ -1,5 +1,7 @@
-[![GitHub followers](https://img.shields.io/github/followers/rolloerro?label=followers&style=flat-square)](https://github.com/rolloerro)
-[![License](https://img.shields.io/github/license/rolloerro?style=flat-square)
+[![Followers](https://img.shields.io/github/followers/rolloerro?label=Followers&style=flat-square)](https://github.com/rolloerro)
+[![Top language](https://img.shields.io/github/languages/top/rolloerro/rolloerro?style=flat-square)](https://github.com/rolloerro)
+[![Repos](https://img.shields.io/github/repo-count/rolloerro?style=flat-square)](https://github.com/rolloerro?tab=repositories)
+[![License](https://img.shields.io/github/license/rolloerro/rolloerro?style=flat-square)](https://github.com/rolloerro/rolloerro/blob/main/LICENSE)
 
 
 # 👨‍⚕️ Vladimir Kopylov
