@@ -6,9 +6,7 @@
 ![Languages](https://img.shields.io/badge/Languages-Python_Kotlin_Swift_TS_JS_C%23_Rust_Ruby-0A0A0A?style=flat-square)
 
 # 👨‍⚕️ Vladimir Kopylov
-**Medical Full‑Stack Developer · AI/ML Engineer · Emergency Medicine Engineering**
-
-https://chatgpt.com/s/m_692c7e75db908191bf635075933948e3
+**Medical Full‑Stack Developer · AI/ML Engineer · Emergency Medicine Engineering** 
 
 Founder of **Digital WM Core** — clinical AI tools, emergency medicine algorithms, and cloud-native microservices for medical applications.
 
