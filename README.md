@@ -55,9 +55,6 @@ Bring clinical algorithms and emergency protocols into reliable, auditable digit
 - API Gateway → Auth Service → Microservices (FDT, EMS, PANIC) → Worker / Task Queue → Storage / Metrics
 - ML/AI modules run as isolated services, serve predictions via secure APIs.
 
-- 🏷 Бейджи Cloud Native
-<p align="left"> <img src="https://img.shields.io/badge/Kubernetes-Ready-blue?style=for-the-badge&logo=kubernetes" /> <img src="https://img.shields.io/badge/Prometheus-Metrics-orange?style=for-the-badge&logo=prometheus" /> <img src="https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/Rust-Workers-orange?style=for-the-badge&logo=rust" /> <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-black?style=for-the-badge&logo=githubactions" /> </p>
-
 
 (See `architecture_diagram.png` for a visual overview.)
 
@@ -79,7 +76,7 @@ Bring clinical algorithms and emergency protocols into reliable, auditable digit
 
 **AI:** OpenAI API, LangChain, custom ML utilities
 
-
+<p align="left"> <img src="https://img.shields.io/badge/Kubernetes-Ready-blue?style=for-the-badge&logo=kubernetes" /> <img src="https://img.shields.io/badge/Prometheus-Metrics-orange?style=for-the-badge&logo=prometheus" /> <img src="https://img.shields.io/badge/Docker-Compose-blue?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/Rust-Workers-orange?style=for-the-badge&logo=rust" /> <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-black?style=for-the-badge&logo=githubactions" /> </p>
 ---
 
 
