@@ -8,6 +8,8 @@
 # 👨‍⚕️ Vladimir Kopylov
 **Medical Full‑Stack Developer · AI/ML Engineer · Emergency Medicine Engineering**
 
+https://chatgpt.com/s/m_692c7e75db908191bf635075933948e3
+
 Founder of **Digital WM Core** — clinical AI tools, emergency medicine algorithms, and cloud-native microservices for medical applications.
 
 
