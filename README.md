@@ -3,6 +3,7 @@
 ![Top Lang](https://img.shields.io/github/languages/top/rolloerro/rolloerro?style=for-the-badge)
 ![License](https://img.shields.io/github/license/rolloerro/rolloerro?style=for-the-badge)
 
+![Languages](https://img.shields.io/badge/Languages-Python_Kotlin_Swift_TS_JS_C%23_Rust_Ruby-0A0A0A?style=flat-square)
 
 # 👨‍⚕️ Vladimir Kopylov
 **Medical Full‑Stack Developer · AI/ML Engineer · Emergency Medicine Engineering**
