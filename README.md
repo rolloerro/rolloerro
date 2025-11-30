@@ -1,5 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/rolloerro?label=followers&style=flat-square)](https://github.com/rolloerro)
-[![License](https://img.shields.io/github/license/rolloerro?style=flat-square)]
+[![License](https://img.shields.io/github/license/rolloerro?style=flat-square)
 
 
 # 👨‍⚕️ Vladimir Kopylov
