@@ -95,7 +95,7 @@ Bring clinical algorithms and emergency protocols into reliable, auditable digit
 
 
 - GitHub: https://github.com/rolloerro
-- Telegram: @rolloerro
+- Telegram: @MSL72Rph
 
 
 ---
