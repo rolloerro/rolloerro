@@ -32,6 +32,12 @@ Bring clinical algorithms and emergency protocols into reliable, auditable digit
 
 **PANIC (Mental Health & Panic Aid)** · Offline-capable assistants and mobile apps for panic stabilization techniques and guided self-help.
 
+### 💡 Цитата Digital WM Core
+> “Инновации в медицине начинаются там, где врач не боится писать код.”
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Digital%20WM%20Core-Active-brightgreen?style=for-the-badge&logo=heartbeat&logoColor=white" alt="Digital WM Core"/>
+</p>
 
 ---
 
