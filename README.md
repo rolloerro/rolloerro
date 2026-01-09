@@ -95,7 +95,7 @@ Custom ML utilities · clinical rule engines
 
 ---
 
-## 📬 Контакты
+## 📬  Контакты
 GitHub: https://github.com/rolloerro  
 Telegram: @MSL72Rph  
 
