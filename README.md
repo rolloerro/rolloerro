@@ -94,6 +94,20 @@ Custom ML utilities · clinical rule engines
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rolloerro&show_icons=true&hide_title=true)
 
 ---
+## Поддержка проекта 💖
+
+Если хочешь помочь развитию проекта, можешь перевести средства на мой TON Wallet.  
+Любая поддержка ценна! 🙏
+
+### TON Wallet
+
+- **TON адрес:** `UQAYC-DCtvS-yILUsuF1qRU-h54kr44xzo_ueAjdudI4dSNX`
+
+![QR-код для перевода на TON Wallet](assets/ton_qr.png)
+
+> Просто отсканируй QR-код и переведи желаемую сумму.  
+> Можно отправлять как **TON**, так и **USDT (TON)**.  
+> Убедись, что выбираешь правильный токен для перевода.
 
 ## 📬 Контакты 
 GitHub: https://github.com/rolloerro  
