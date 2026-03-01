@@ -1,6 +1,5 @@
-# 👨‍⚕️ Vladimir Kopylov  
-**Medical Engineer · Full-Stack Developer · AI/ML Architect**  
-
+# 👨‍⚕️  **Medical Engineer · Full-Stack Developer · AI/ML Architect** 
+ 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-LTS-green)
 ![Rust](https://img.shields.io/badge/Rust-stable-orange)
