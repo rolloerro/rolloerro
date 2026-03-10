@@ -89,17 +89,9 @@ Custom ML utilities · clinical rule engines
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 Contribution Snake
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rolloerro&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rolloerro&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rolloerro&theme=tokyonight&hide_border=true)
+![snake gif](https://github.com/rolloerro/rolloerro/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ## ☕ Buy Me a Coffee / Support
