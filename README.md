@@ -88,7 +88,6 @@ Custom ML utilities · clinical rule engines
 — Готовлю клинические AI-модули к production-уровню  
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -99,6 +98,7 @@ Custom ML utilities · clinical rule engines
 
 </p>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=rolloerro&theme=tokyonight&hide_border=true)
 ---
 ## ☕ Buy Me a Coffee / Support
 
